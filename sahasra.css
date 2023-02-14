@@ -1,0 +1,17 @@
+.title {
+    text-align: center;
+    font-size: medium;
+}
+
+.card {
+    width: 100px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.pack {
+    min-height: 100px;
+    background-color: antiquewhite;
+
+    text-align: center;
+}
